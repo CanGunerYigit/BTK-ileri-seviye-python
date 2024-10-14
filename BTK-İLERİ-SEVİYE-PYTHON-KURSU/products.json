@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "MacBook Pro",
+    "price": 80000
+  },
+  {
+    "id": 2,
+    "title": "MacBook Air",
+    "price": 70000
+  },
+  {
+    "id": 3,
+    "title": "Samsung S23",
+    "price": 50000
+  }
+]
