@@ -5,7 +5,7 @@ sms=vonage.Sms(client)
 
 responseData=sms.send_message({
     "from":"Deneme",
-    "to":"5425644616",
+    "to":"telefon numarası",
     "text":"deneme"
 })
 if responseData["messages"][0]["status"]=="0": #gelen status code 0 ise mesaj gitti
